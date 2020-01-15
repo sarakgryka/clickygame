@@ -2,7 +2,7 @@
   "name": "clickygame2",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sarakgryka.github.io/clickygame/",
+  "homepage": "https://sarakgryka.github.io/clickygame/blob/master/public/index.html"
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.4.0",
